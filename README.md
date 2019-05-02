@@ -4,11 +4,13 @@ Programma om vrienden op te slaan en te raten. In dit geval de personages uit Pe
 als de telefoon geroteerd wordt draait de app mee. 
 
 Friends verticaal:
-![Friend_horizontal](Friend_horizontal.jpeg)
+![Friends_vertical](Friends_vertical.png)
 
 Friends horizontaal:
-![Friend_horizontal](Friend_horizontal.png)
+![Friends_horizontal](Friends_horizontal.png)
 
 Friend verticaal:
+![Friend_vertical](Friend_vertical.png)
 
 Friend Horizontaal 
+![Friend_horizontal](Friend_horizontal.png)
